@@ -1,0 +1,25 @@
+{
+	"ImportPath": ".",
+	"GoVersion": "go1.6",
+	"Deps": [
+		{
+			"ImportPath": "github.com/BurntSushi/toml",
+			"Comment": "v0.1.0-23-g5c4df71",
+			"Rev": "5c4df71dfe9ac89ef6287afc05e4c1b16ae65a1e"
+		},
+		{
+			"ImportPath": "github.com/dgrijalva/jwt-go",
+			"Comment": "v2.4.0-4-gafef698",
+			"Rev": "afef698c326bfd906b11659432544e5aae441d44"
+		},
+		{
+			"ImportPath": "github.com/labstack/echo",
+			"Comment": "v1.3-5-g0884290",
+			"Rev": "088429076663dc9b690a103c97fb7896cfb3e617"
+		},
+		{
+			"ImportPath": "golang.org/x/net/http2",
+			"Rev": "548f7bf20c8aae87fecd9aa09cc89065451e6271"
+		}
+	]
+}

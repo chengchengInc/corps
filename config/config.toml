@@ -1,0 +1,12 @@
+title = "corps config"
+
+[database]
+driver = "mysql"
+DSN = "root:123456@localhost:3306/corps?charset=utf8"
+
+[oauth]
+client_id = ""
+client_secret = ""
+
+[server]
+port = 8888
